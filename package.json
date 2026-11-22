@@ -1,0 +1,9 @@
+{
+  "name": "personal-business-site",
+  "version": "1.0.0",
+  "description": "Multilingual personal/business website with hidden admin panel (zero dependencies)",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=18" },
+  "license": "MIT"
+}
